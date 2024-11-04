@@ -1,0 +1,5 @@
+background: linear-gradient(to right, 
+    rgb(255, 0, 0) 0%,       /* Red color at 0% stop location */
+    rgb(255, 255, 0) 50%,    /* Yellow color at 50% stop location */
+    rgb(0, 0, 255) 100%      /* Blue color at 100% stop location */
+);
